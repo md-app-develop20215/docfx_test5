@@ -2,12 +2,17 @@
   "api/DocFxForUnity.html": {
     "href": "api/DocFxForUnity.html",
     "title": "Namespace DocFxForUnity | Example Unity documentation",
-    "keywords": "Namespace DocFxForUnity DocFX usage example for Unity projects. Classes Player The player of the game."
+    "keywords": "Namespace DocFxForUnity DocFX usage example for Unity projects. Classes Player The player of the game. Player2 The player of the game."
   },
   "api/DocFxForUnity.Player.html": {
     "href": "api/DocFxForUnity.Player.html",
     "title": "Class Player | Example Unity documentation",
     "keywords": "Class Player The player of the game. Inheritance Object Player Namespace : DocFxForUnity Assembly : cs.temp.dll.dll Syntax public class Player : MonoBehaviour Properties Equipment Gets the list of the equipment carried by the player. Declaration public List<string> Equipment { get; } Property Value Type Description List < String > Health Gets the current health of the player. Declaration public int Health { get; } Property Value Type Description Int32 HurtClip Gets the that will be played when Hit(Int32) is called. Declaration public AudioClip HurtClip { get; } Property Value Type Description AudioClip StartingHealth Gets the starting health of the player. Declaration public int StartingHealth { get; } Property Value Type Description Int32 Methods Hit(Int32) Deacreases Health by a specified value and display a game over if Health drops to zero. Declaration public void Hit(int value) Parameters Type Name Description Int32 value How much to deacrease Health . Start() Sets Health with StartingHealth . Declaration protected virtual void Start()"
+  },
+  "api/DocFxForUnity.Player2.html": {
+    "href": "api/DocFxForUnity.Player2.html",
+    "title": "Class Player2 | Example Unity documentation",
+    "keywords": "Class Player2 The player of the game. Inheritance Object Player2 Namespace : DocFxForUnity Assembly : cs.temp.dll.dll Syntax public class Player2 : MonoBehaviour Properties Equipment Gets the list of the equipment carried by the player. Declaration public List<string> Equipment { get; } Property Value Type Description List < String > Health Gets the current health of the player. Declaration public int Health { get; } Property Value Type Description Int32 HurtClip Gets the that will be played when Hit(Int32) is called. Declaration public AudioClip HurtClip { get; } Property Value Type Description AudioClip StartingHealth Gets the starting health of the player. Declaration public int StartingHealth { get; } Property Value Type Description Int32 Methods Hit(Int32) Deacreases Health by a specified value and display a game over if Health drops to zero. Declaration public void Hit(int value) Parameters Type Name Description Int32 value How much to deacrease Health . Start() Sets Health with StartingHealth . Declaration protected virtual void Start()"
   },
   "index.html": {
     "href": "index.html",

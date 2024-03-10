@@ -36,11 +36,23 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api/DocFxForUnity.Player2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DocFxForUnity.Player2.html",
+          "hash": "fR7zZONGcMrzcz9rSmgpFc7gmTykRJ5dJgVrM4zGvbw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api/DocFxForUnity.yml",
       "output": {
         ".html": {
           "relative_path": "api/DocFxForUnity.html",
-          "hash": "WeuUo4fXfQsiR1MJIZEWqayGBt9dMSumDDV55haCOTc="
+          "hash": "R0ry9fDaaiT1nbHLfDd3UJaLJMO7G491QCeJtHWi8wk="
         }
       },
       "is_incremental": false,
@@ -52,7 +64,7 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "DOo5KJO57TMjQabtxqPhHI5p7h3iooCIxeFbQW87fYQ="
+          "hash": "jlPlnQIiiNu0KXtqbfS7jEZqDM3WsW/SNpgwF1lDfM8="
         }
       },
       "is_incremental": false,
@@ -161,7 +173,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 3,
+          "total_file_count": 4,
           "skipped_file_count": 0
         },
         "ResourceDocumentProcessor": {
